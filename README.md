@@ -4,7 +4,7 @@ Contoh Tampilan Web Sekolah
 
 Contoh Web Sekolah Vroh, langsung akses di mari
 
-[http://novay.github.io/contoh-web-sekolah](http://novay.github.io/contoh-web-sekolah)
+[http://Helmi-crypto.github.io/contoh-web-jbsk](http://Helmi-crypto.github.io/contoh-web-jbsk)
 
 Beberapa konten belum terisi... Pokoknya gitulah... Ngahahaha....
 
